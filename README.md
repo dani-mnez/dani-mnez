@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Dani Martínez, a graphic designer based on Valencia, Spain
+- 👀 I’m interested in graphic, usable and eficient webs (...and in 3D, motion graphics 🥰)
+- 🌱 I’m currently learning 3Ds Studio Max, Substance Designer, Substance Painter, Nuke, Houdini, Processing (p5.js), D3.js, Vue.js, PHP, SQL...
+- 💞️ I’m looking to collaborate on code dependant graphic projects
+- 📫 How to reach me: [My webpage](www.dani-martinez.com)
